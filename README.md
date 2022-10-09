@@ -31,7 +31,7 @@ Make sure you have installed all of the following prerequisites on your local ma
    npm install
    ```
 4. Create .env file
-  ```sh
+   ```sh
     PORT
     MONGO_UR
    ```
