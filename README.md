@@ -33,7 +33,7 @@ Make sure you have installed all of the following prerequisites on your local ma
 4. Create .env file
    ```sh
     PORT
-    MONGO_UR
+    MONGO_URI
    ```
 5. Run project locally
    ```sh
