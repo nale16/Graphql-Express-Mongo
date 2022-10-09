@@ -43,6 +43,6 @@ Make sure you have installed all of the following prerequisites on your local ma
 ## Section2
 
    Run the section2's folder
-    ```sh
+   ```sh
    node section2/{fileName}.js
    ```
