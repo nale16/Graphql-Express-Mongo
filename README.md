@@ -20,7 +20,7 @@ Make sure you have installed all of the following prerequisites on your local ma
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/nale16/Graphql-Express-Mongo.git
+   git clone https://github.com/nale16/graphql-express-mongo.git
    ```
 2. Move to repo root directory
    ```sh
